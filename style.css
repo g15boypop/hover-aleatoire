@@ -1,0 +1,10 @@
+#tableau{
+  margin: auto;
+border-collapse: collapse;
+}
+
+#tableau td{
+  
+  width: 10px;
+  height: 20px;
+}
